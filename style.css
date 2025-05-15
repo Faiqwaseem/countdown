@@ -1,0 +1,30 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    /* background-image: url("https://img.pikbest.com/best/video_preview_img/2310/9892562-652f5ec298b46.jpg!w700wp"); */
+    background-color: rgb(15, 12, 55);
+}
+.main-box h1{
+    text-align: center;
+    padding: 50px;
+    color: white;
+}
+.main-box h3{
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    gap: 20px;
+    font-size: 50px;
+}
+.dthem{
+    font-size: 30px;
+}
